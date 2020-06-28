@@ -1,4 +1,4 @@
-import landscape_model
+import pix2pix_landscape_Train
 
 
 def make_image(img_tensor):
